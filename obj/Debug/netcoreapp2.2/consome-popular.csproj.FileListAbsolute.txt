@@ -1,0 +1,14 @@
+D:\git_wsp\consome-popular\bin\Debug\netcoreapp2.2\consome-popular.deps.json
+D:\git_wsp\consome-popular\bin\Debug\netcoreapp2.2\consome-popular.runtimeconfig.json
+D:\git_wsp\consome-popular\bin\Debug\netcoreapp2.2\consome-popular.runtimeconfig.dev.json
+D:\git_wsp\consome-popular\bin\Debug\netcoreapp2.2\consome-popular.dll
+D:\git_wsp\consome-popular\bin\Debug\netcoreapp2.2\consome-popular.pdb
+D:\git_wsp\consome-popular\obj\Debug\netcoreapp2.2\consome-popular.csprojAssemblyReference.cache
+D:\git_wsp\consome-popular\obj\Debug\netcoreapp2.2\consome-popular.csproj.CoreCompileInputs.cache
+D:\git_wsp\consome-popular\obj\Debug\netcoreapp2.2\consome-popular.RazorAssemblyInfo.cache
+D:\git_wsp\consome-popular\obj\Debug\netcoreapp2.2\consome-popular.RazorAssemblyInfo.cs
+D:\git_wsp\consome-popular\obj\Debug\netcoreapp2.2\consome-popular.AssemblyInfoInputs.cache
+D:\git_wsp\consome-popular\obj\Debug\netcoreapp2.2\consome-popular.AssemblyInfo.cs
+D:\git_wsp\consome-popular\obj\Debug\netcoreapp2.2\consome-popular.RazorTargetAssemblyInfo.cache
+D:\git_wsp\consome-popular\obj\Debug\netcoreapp2.2\consome-popular.dll
+D:\git_wsp\consome-popular\obj\Debug\netcoreapp2.2\consome-popular.pdb
